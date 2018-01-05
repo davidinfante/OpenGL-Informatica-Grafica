@@ -47,55 +47,55 @@
    Haga click de nuevo para deshacer el cambio de color.
 
 ### *** Modos de visualización ***
--tecla z: modo puntos
--tecla x: Modo aristas
--tecla c: modo sólido
--tecla v: modo ajedrez
--tecla b: modo iluminación plana (requiere material o se ve negro)
--tecla n: modo iluminación suave (requiere material o se ve negro)
+- tecla z: modo puntos
+- tecla x: Modo aristas
+- tecla c: modo sólido
+- tecla v: modo ajedrez
+- tecla b: modo iluminación plana (requiere material o se ve negro)
+- tecla n: modo iluminación suave (requiere material o se ve negro)
 
 ### *** Materiales ***
--tecla F1: material esmeralda
--tecla F2: material rubí
--tecla F3: material oro
+- tecla F1: material esmeralda
+- tecla F2: material rubí
+- tecla F3: material oro
 
 ### *** Figuras ***
--tecla 1: tetraedro
--tecla 2: cubo
--tecla 3: icosaedro
--tecla 4: modelo PLY (modelo hormiga "ant.ply" cargado por defecto)
--tecla 5: perfil PLY para revolución (perfil de un peón cargado por defecto)
--tecla 6: modelo jerárquico (Robot)
--tecla 7: tablero con textura (textura "logo.jpg" cargada por defecto)
+- tecla 1: tetraedro
+- tecla 2: cubo
+- tecla 3: icosaedro
+- tecla 4: modelo PLY (modelo hormiga "ant.ply" cargado por defecto)
+- tecla 5: perfil PLY para revolución (perfil de un peón cargado por defecto)
+- tecla 6: modelo jerárquico (Robot)
+- tecla 7: tablero con textura (textura "logo.jpg" cargada por defecto)
 
 ### *** Movimientos de los modelados ***
--tecla a: aumentar el número de revoluciones del objeto revolución
--tecla A: disminuir el número de revoluciones del objeto revolución
+- tecla a: aumentar el número de revoluciones del objeto revolución
+- tecla A: disminuir el número de revoluciones del objeto revolución
 
--tecla s: rotar la cabeza del robot hacia su derecha (esta tecla detiene la animación por defecto del robot, y pulsar otra tecla reactiva la animación)
--tecla S: rotar la cabeza del robot hacia su izquierda (esta tecla detiene la animación por defecto del robot, y pulsar otra tecla reactiva la animación)
--tecla d: rotar las piernas del robot en un sentido (esta tecla detiene la animación por defecto del robot, y pulsar otra tecla reactiva la animación)
--tecla D: rotar las piernas del robot en el otro sentido (esta tecla detiene la animación por defecto del robot, y pulsar otra tecla reactiva la animación)
--tecla f: trasladar el cuello y cabeza del robot hacia abajo (esta tecla detiene la animación por defecto del robot, y pulsar otra tecla reactiva la animación)
--tecla F: trasladar el cuello y cabeza del robot hacia arriba (esta tecla detiene la animación por defecto del robot, y pulsar otra tecla reactiva la animación)
+- tecla s: rotar la cabeza del robot hacia su derecha (esta tecla detiene la animación por defecto del robot, y pulsar otra tecla reactiva la animación)
+- tecla S: rotar la cabeza del robot hacia su izquierda (esta tecla detiene la animación por defecto del robot, y pulsar otra tecla reactiva la animación)
+- tecla d: rotar las piernas del robot en un sentido (esta tecla detiene la animación por defecto del robot, y pulsar otra tecla reactiva la animación)
+- tecla D: rotar las piernas del robot en el otro sentido (esta tecla detiene la animación por defecto del robot, y pulsar otra tecla reactiva la animación)
+- tecla f: trasladar el cuello y cabeza del robot hacia abajo (esta tecla detiene la animación por defecto del robot, y pulsar otra tecla reactiva la animación)
+- tecla F: trasladar el cuello y cabeza del robot hacia arriba (esta tecla detiene la animación por defecto del robot, y pulsar otra tecla reactiva la animación)
 (Cualquier otra tecla diferente a s/S, d/D y f/F reactivará la animación del Robot)
--tecla g: disminuir velocidad de la cabeza del robot
--tecla G: aumentar velocidad de la cabeza del robot
--tecla h: disminuir velocidad de los pies del robot
--tecla H: aumentar velocidad de los pies del robot
--tecla j: disminuir velocidad del cuello del robot
--tecla J: aumentar velocidad del cuello del robot
+- tecla g: disminuir velocidad de la cabeza del robot
+- tecla G: aumentar velocidad de la cabeza del robot
+- tecla h: disminuir velocidad de los pies del robot
+- tecla H: aumentar velocidad de los pies del robot
+- tecla j: disminuir velocidad del cuello del robot
+- tecla J: aumentar velocidad del cuello del robot
 
--tecla w/W: mover la luz_1 en el eje x
--tecla e/E: mover la luz_1 en el eje y
--tecla r/R: mover la luz_1 en el eje z
--tecla t/T: mover la luz_1 en círculos sobre el eje y
--tecla y/Y: mover la luz_1 en círculos sobre el eje x
+- tecla w/W: mover la luz_1 en el eje x
+- tecla e/E: mover la luz_1 en el eje y
+- tecla r/R: mover la luz_1 en el eje z
+- tecla t/T: mover la luz_1 en círculos sobre el eje y
+- tecla y/Y: mover la luz_1 en círculos sobre el eje x
 
--tecla m: mover la textura del tablero a la derecha
--tecla M: mover la textura del tablero a la izquierda
--tecla k: rotar la textura del tablero en sentido antihorario (0, 90, 180 y 270 grados)
--tecla K: rotar la textura del tablero en sentido horario (0, 90, 180 y 270 grados)
+- tecla m: mover la textura del tablero a la derecha
+- tecla M: mover la textura del tablero a la izquierda
+- tecla k: rotar la textura del tablero en sentido antihorario (0, 90, 180 y 270 grados)
+- tecla K: rotar la textura del tablero en sentido horario (0, 90, 180 y 270 grados)
 
 
 ## Explicación de ficheros y organización de carpetas:
