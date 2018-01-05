@@ -1,3 +1,9 @@
+/*
+###########################
+Diseñado por: David Infante Casas
+###########################
+*/
+
 #include "ObjectJerarquico.h"
 
 ObjectJerarquico::ObjectJerarquico() {
