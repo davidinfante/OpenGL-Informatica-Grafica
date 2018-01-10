@@ -13,8 +13,10 @@
 
 ## Instrucciones de compilación:
 
-### *** ES NECESARIO TENER INSTALADO MAGIC PARA CARGAR TEXTURAS *** `sudo apt-get install magic`
-### *** EN CASO DE NO COMPILAR AUN ASÍ, INSTALAR IMAGEMAGICK *** `sudo apt-get install imagemagick`
+### *** ES NECESARIO TENER INSTALADO MAGIC PARA CARGAR TEXTURAS ***  
+`sudo apt-get install magic`
+### *** EN CASO DE NO COMPILAR AUN ASÍ, INSTALAR IMAGEMAGICK ***  
+`sudo apt-get install imagemagick`
 
 1.- Descomprimir el archivo: Practica_IG_David_Infante_Casas.zip  
 2.- Acceder con la terminal al directorio make descomprimido y utilizar el comando make para compilar el proyecto.   
