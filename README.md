@@ -1,4 +1,4 @@
-# OpenGL-Informatica-Grafica
+# OpenGL Informatica Grafica
 
 ### Autor: David Infante Casas
 ### Grupo: 3ro. C, grupo de prácticas C1
