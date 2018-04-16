@@ -1,4 +1,6 @@
-# OpenGL Informatica Grafica
+# Informática Gráfica - OpenGL
+
+## Prácticas de la asignatura Informática Gráfica en la UGR realizadas con OpenGL
 
 ### Autor: David Infante Casas
 ### Grupo: 3ro. C, grupo de prácticas C1
